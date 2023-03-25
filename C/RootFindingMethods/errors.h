@@ -1,0 +1,2 @@
+#define OUT_OF_RANGE 101
+#define SMALL_DERIVATIVE 102
